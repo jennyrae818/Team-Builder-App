@@ -1,0 +1,29 @@
+{
+  "name": "team-builder",
+  "version": "1.0.0",
+  "description": "team builder",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennyrae818/Team-Builder-App.git"
+  },
+  "author": "Jenny Sacco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennyrae818/Team-Builder-App/issues"
+  },
+  "homepage": "https://github.com/jennyrae818/Team-Builder-App#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
